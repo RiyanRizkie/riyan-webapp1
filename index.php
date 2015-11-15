@@ -7,6 +7,7 @@
     <br>
     email : <input type="email" name="email"/>
     <br>
+    <input type="submit" value="Enter">
 </form>
 </body>
 </html>
