@@ -11,6 +11,6 @@ if(!empty($_POST)){
 	echo '<h1>Halo' . $nama . '!</h1>';
 	echo 'Email : ' . $email;
 }
-
+?>
 </body>
 </html>
